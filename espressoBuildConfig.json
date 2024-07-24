@@ -1,0 +1,18 @@
+{
+	"toolsVersions": {
+	    "gradle": "8.2",
+	    "androidGradlePlugin": "8.2.0",
+	    "compile_sdk_version": 34,
+	    "buildTools": "35.0.0",
+	    "minSdk": 21,
+	    "targetSdk": 34,
+	    "kotlin": "1.8.10"
+	}
+	"additionalAndroidTestDependencies": [
+			"androidx.fragment:fragment:1.8.1",
+			"androidx.work:work-runtime:2.9.0",
+		],
+	"additionalAppDependencies": [
+			"androidx.work:work-runtime:2.9.0",
+		]
+}
